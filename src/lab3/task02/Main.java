@@ -7,7 +7,7 @@ public class Main {
         porsche.setWeight(3);
 
         Car mazda = new Car(Color.RED, 2);
-        mazda.setName("Kia");
+        mazda.setName("Mazda");
 
         porsche.printInfo();
         mazda.printInfo();
